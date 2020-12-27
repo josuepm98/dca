@@ -46,5 +46,7 @@ int main() {
 
 	hola
 
+	cout << hola << endl;
+
 	return 0;
 }

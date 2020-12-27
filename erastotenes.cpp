@@ -44,9 +44,5 @@ int main() {
 
 	cout << "Tiempo empleado: " << time << endl;
 
-	hola
-
-	cout << hola << endl;
-
 	return 0;
 }
